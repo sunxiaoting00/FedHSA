@@ -4,7 +4,7 @@ The paper proposes a heterogeneous federated learning framework named FedHSA, wh
 Strengths:
 1. We have done a lot of experiments on multiple datasets, compared the performance of our FedHSA and other popular methods.
 2. we have enhanced our understanding of the main ideas of our paper through visualization.
-3. we perform ablation experiments on each module in the fedhsa framework for verification.
+3. we perform ablation experiments on each module in the FedHSA framework for verification.
 
 Weaknesses:
 1. In this paper, we use euclidean distance instead of cosine similarity to cluster prototypes in the part of subclass division.
