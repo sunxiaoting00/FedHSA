@@ -2,6 +2,7 @@
 The paper proposes a heterogeneous federated learning framework named FedHSA, which aims to align discriminative features and improve the generalization performance of heterogeneous client models. FedHSA introduces two key components, both of which are innovative contributions.
 
 Strengths:
+
 We have done a lot of experiments on multiple datasets, compared the performance of our fedhsa and other popular methods, and enhanced the understanding of the main idea of our paper through visualization.
 
 Weaknesses:
