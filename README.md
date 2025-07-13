@@ -6,4 +6,5 @@ Weaknesses:
 1. In this paper, we use Euclidean distance instead of cosine similarity to cluster prototypes in the part of subclass division.
 2. Baselines is not introduced in detail in this article.
 3. The threshold value is set by the percentile of L2 distance distribution between prototypes, and it is not clear that each category is divided into several subcategories.
+
 In future work, we will consider exploring incentive mechanisms to encourage high-quality clients to participate in heterogeneous Federation learning.
