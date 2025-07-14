@@ -12,4 +12,5 @@ Weaknesses:
 3. In Section V, regarding prototype clustering, we set the value of Num to 100. The rationale behind this choice is unclear. We should provide a detailed explanation or justification for selecting this specific value.
 
 Future Work:
+
 Later updates will make up for the above three weaknesses. In future work, we will consider exploring incentive mechanisms to encourage high-quality clients to participate in heterogeneous federated learning.
